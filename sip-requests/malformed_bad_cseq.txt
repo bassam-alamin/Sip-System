@@ -1,0 +1,10 @@
+REGISTER sip:registrar.cybernaptics.com SIP/2.0
+Via: SIP/2.0/UDP bashir-pc.cybernaptics.com;branch=z9hG4bKmalform2
+From: Bashir <sip:bashir@cybernaptics.com>;tag=445566
+To: Bashir <sip:bashir@cybernaptics.com>
+Call-ID: bashir-reg-001@cybernaptics.com
+CSeq: NOTANUMBER REGISTER
+Contact: <sip:bashir@192.168.1.11>
+Expires: 3600
+Content-Length: 0
+

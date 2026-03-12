@@ -1,0 +1,146 @@
+2026-03-12 10:30:53,128 [INFO] __main__: Final Server UDP listening on 0.0.0.0:5070
+2026-03-12 10:30:53,129 [INFO] __main__: Final Server TCP listening on 0.0.0.0:5070
+2026-03-12 10:33:51,472 [INFO] __main__: Final Server UDP listening on 0.0.0.0:5070
+2026-03-12 10:33:51,472 [INFO] __main__: Final Server TCP listening on 0.0.0.0:5070
+2026-03-12 10:35:12,133 [INFO] __main__: Final Server UDP listening on 0.0.0.0:5070
+2026-03-12 10:35:12,133 [INFO] __main__: Final Server TCP listening on 0.0.0.0:5070
+2026-03-12 10:46:42,583 [INFO] sip_utils: Received request:
+BYE sip:alice@pc33.atlanta.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'Max-Forwards': '69', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:04:35,989 [INFO] __main__: Final Server UDP listening on 0.0.0.0:5070
+2026-03-12 11:04:35,990 [INFO] __main__: Final Server TCP listening on 0.0.0.0:5070
+2026-03-12 11:04:49,060 [INFO] sip_utils: Received request:
+BYE sip:alice@pc33.atlanta.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'Max-Forwards': '69', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:19:46,805 [INFO] __main__: Final Server UDP listening on 0.0.0.0:5070
+2026-03-12 11:19:46,806 [INFO] __main__: Final Server TCP listening on 0.0.0.0:5070
+2026-03-12 11:20:14,219 [INFO] sip_utils: Received request:
+BYE sip:alice@pc33.atlanta.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'Max-Forwards': '69', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:22:02,122 [INFO] sip_utils: Received request:
+BYE sip:alice@pc33.atlanta.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'Max-Forwards': '69', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:22:36,403 [INFO] __main__: Final Server UDP listening on 0.0.0.0:5070
+2026-03-12 11:22:36,404 [INFO] __main__: Final Server TCP listening on 0.0.0.0:5070
+2026-03-12 11:22:42,676 [INFO] sip_utils: Received request:
+BYE sip:alice@pc33.atlanta.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'Max-Forwards': '69', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:25:36,645 [INFO] __main__: Final Server UDP listening on 0.0.0.0:5070
+2026-03-12 11:25:36,646 [INFO] __main__: Final Server TCP listening on 0.0.0.0:5070
+2026-03-12 11:25:45,873 [INFO] sip_utils: Received request:
+BYE sip:alice@pc33.atlanta.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'Max-Forwards': '69', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:39:02,388 [INFO] __main__: Final Server UDP listening on 0.0.0.0:5070
+2026-03-12 11:39:02,390 [INFO] __main__: Final Server TCP listening on 0.0.0.0:5070
+2026-03-12 11:39:10,436 [INFO] sip_utils: Received request:
+BYE sip:alice@pc33.atlanta.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'Max-Forwards': '69', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:39:27,183 [INFO] sip_utils: Received request:
+BYE sip:alice@pc33.atlanta.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'Max-Forwards': '69', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:48:40,663 [INFO] __main__: Final Server UDP listening on 0.0.0.0:5070
+2026-03-12 11:48:40,664 [INFO] __main__: Final Server TCP listening on 0.0.0.0:5070
+2026-03-12 11:48:48,742 [INFO] sip_utils: Received request:
+BYE sip:alice@pc33.atlanta.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'Max-Forwards': '69', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:49:24,754 [INFO] sip_utils: Received request:
+BYE sip:alice@pc33.atlanta.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'Max-Forwards': '69', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:58:36,703 [INFO] __main__: Final Server UDP listening on 0.0.0.0:5070
+2026-03-12 11:58:36,703 [INFO] __main__: Final Server TCP listening on 0.0.0.0:5070
+2026-03-12 11:58:45,756 [INFO] sip_utils: Received request:
+BYE sip:alice@pc33.atlanta.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'Max-Forwards': '69', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:58:45,756 [INFO] __main__: Final Server: received request from ('127.0.0.1', 51613) via UDP
+2026-03-12 12:04:09,268 [INFO] sip_utils: Received request:
+BYE sip:bassam@cybernaptics.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP njeri-pc.cybernaptics.com;branch=z9hG4bKmalform4', 'From': 'Njeri <sip:njeri@cybernaptics.com>;tag=aabbcc', 'To': 'Bassam <sip:bassam@cybernaptics.com>;tag=112233', 'Call-ID': 'njeri-bye-bassam@cybernaptics.com', 'CSeq': '2 BYE', 'Contact': '<sip:njeri@192.168.1.13>', 'Content-Length': '0'}
+2026-03-12 12:04:09,270 [INFO] __main__: Final Server: received request from ('127.0.0.1', 56915) via UDP
+2026-03-12 12:07:10,884 [INFO] sip_utils: Received request:
+INVITE sip:david@cybernaptics.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP ahmed-pc.cybernaptics.com;branch=z9hG4bKbody1', 'From': 'Ahmed <sip:ahmed@cybernaptics.com>;tag=ddeeff', 'To': 'David <sip:david@cybernaptics.com>', 'Call-ID': 'ahmed-invite-david@cybernaptics.com', 'CSeq': '1 INVITE', 'Contact': '<sip:ahmed@192.168.1.14>', 'Content-Type': 'application/sdp', 'Content-Length': '129'}
+2026-03-12 12:07:10,884 [INFO] __main__: Final Server: received request from ('127.0.0.1', 49675) via UDP
+2026-03-12 12:14:54,093 [INFO] __main__: Final Server UDP listening on 0.0.0.0:5070
+2026-03-12 12:14:54,094 [INFO] __main__: Final Server TCP listening on 0.0.0.0:5070
+2026-03-12 12:15:03,477 [INFO] sip_utils: Received request:
+INVITE sip:david@cybernaptics.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP ahmed-pc.cybernaptics.com;branch=z9hG4bKbody1', 'From': 'Ahmed <sip:ahmed@cybernaptics.com>;tag=ddeeff', 'To': 'David <sip:david@cybernaptics.com>', 'Call-ID': 'ahmed-invite-david@cybernaptics.com', 'CSeq': '1 INVITE', 'Contact': '<sip:ahmed@192.168.1.14>', 'Content-Type': 'application/sdp', 'Content-Length': '129'}
+2026-03-12 12:15:03,477 [INFO] __main__: Final Server: received request from ('127.0.0.1', 51751) via UDP
+2026-03-12 12:15:19,243 [INFO] sip_utils: Received request:
+BYE sip:bassam@cybernaptics.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP njeri-pc.cybernaptics.com;branch=z9hG4bKmalform4', 'From': 'Njeri <sip:njeri@cybernaptics.com>;tag=aabbcc', 'To': 'Bassam <sip:bassam@cybernaptics.com>;tag=112233', 'Call-ID': 'njeri-bye-bassam@cybernaptics.com', 'CSeq': '2 BYE', 'Contact': '<sip:njeri@192.168.1.13>', 'Content-Length': '0'}
+2026-03-12 12:15:19,243 [INFO] __main__: Final Server: received request from ('127.0.0.1', 65433) via UDP
+2026-03-12 13:16:19,104 [INFO] __main__: Final Server UDP listening on 0.0.0.0:5070
+2026-03-12 13:16:19,105 [INFO] __main__: Final Server TCP listening on 0.0.0.0:5070
+2026-03-12 13:16:49,289 [INFO] sip_utils: Received request:
+INVITE sip:david@cybernaptics.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP ahmed-pc.cybernaptics.com;branch=z9hG4bKbody1', 'From': 'Ahmed <sip:ahmed@cybernaptics.com>;tag=ddeeff', 'To': 'David <sip:david@cybernaptics.com>', 'Call-ID': 'ahmed-invite-david@cybernaptics.com', 'CSeq': '1 INVITE', 'Contact': '<sip:ahmed@192.168.1.14>', 'Content-Type': 'application/sdp', 'Content-Length': '129'}
+2026-03-12 13:16:49,289 [INFO] __main__: Final Server: received request from ('127.0.0.1', 57125) via UDP
+2026-03-12 13:17:43,290 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '69', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:17:43,290 [INFO] __main__: Final Server: received request from ('127.0.0.1', 52671) via UDP
+2026-03-12 13:28:46,966 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '69', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:28:46,968 [INFO] __main__: Final Server: received request from ('127.0.0.1', 63733) via UDP
+2026-03-12 13:28:49,953 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '68', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:28:49,953 [INFO] __main__: Final Server: received request from ('127.0.0.1', 63735) via UDP
+2026-03-12 13:28:52,970 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '67', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:28:52,970 [INFO] __main__: Final Server: received request from ('127.0.0.1', 63737) via UDP
+2026-03-12 13:28:55,967 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '66', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:28:55,967 [INFO] __main__: Final Server: received request from ('127.0.0.1', 63739) via UDP
+2026-03-12 13:28:58,969 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '65', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:28:58,969 [INFO] __main__: Final Server: received request from ('127.0.0.1', 58028) via UDP
+2026-03-12 13:29:01,979 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '64', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:29:01,979 [INFO] __main__: Final Server: received request from ('127.0.0.1', 58030) via UDP
+2026-03-12 13:29:04,994 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '63', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:29:04,994 [INFO] __main__: Final Server: received request from ('127.0.0.1', 51256) via UDP
+2026-03-12 13:29:08,011 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '62', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:29:08,011 [INFO] __main__: Final Server: received request from ('127.0.0.1', 55172) via UDP
+2026-03-12 13:29:11,013 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '61', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:29:11,013 [INFO] __main__: Final Server: received request from ('127.0.0.1', 55174) via UDP
+2026-03-12 13:29:14,025 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '60', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:29:14,025 [INFO] __main__: Final Server: received request from ('127.0.0.1', 57414) via UDP
+2026-03-12 13:29:17,031 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '59', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:29:17,032 [INFO] __main__: Final Server: received request from ('127.0.0.1', 57416) via UDP
+2026-03-12 13:44:40,008 [INFO] __main__: Final Server UDP listening on 0.0.0.0:5070
+2026-03-12 13:44:40,009 [INFO] __main__: Final Server TCP listening on 0.0.0.0:5070
+2026-03-12 13:44:46,258 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '69', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:44:46,258 [INFO] __main__: Final Server: received request from ('127.0.0.1', 58907) via UDP
+2026-03-12 13:45:24,773 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '69', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:45:24,774 [INFO] __main__: Final Server: received request from ('127.0.0.1', 50811) via UDP
+2026-03-12 13:49:04,440 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '69', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:49:04,440 [INFO] __main__: Final Server: received request from ('127.0.0.1', 49994) via UDP
+2026-03-12 14:03:36,165 [INFO] __main__: Final Server UDP listening on 0.0.0.0:5070
+2026-03-12 14:03:36,166 [INFO] __main__: Final Server TCP listening on 0.0.0.0:5070
+2026-03-12 14:03:41,447 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '69', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 14:03:41,447 [INFO] __main__: Final Server: received request from ('127.0.0.1', 60988) via UDP

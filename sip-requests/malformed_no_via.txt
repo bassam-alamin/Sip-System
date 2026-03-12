@@ -1,0 +1,8 @@
+INVITE sip:njeri@cybernaptics.com SIP/2.0
+From: David <sip:david@cybernaptics.com>;tag=778899
+To: Njeri <sip:njeri@cybernaptics.com>
+Call-ID: david-to-njeri-001@cybernaptics.com
+CSeq: 1 INVITE
+Contact: <sip:david@192.168.1.12>
+Content-Length: 0
+

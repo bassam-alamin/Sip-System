@@ -1,0 +1,8 @@
+INVITE sip:ahmed@cybernaptics.com SIP/2.0
+Via: SIP/2.0/UDP bassam-pc.cybernaptics.com;branch=z9hG4bKmalform1
+From: Bassam <sip:bassam@cybernaptics.com>;tag=112233
+To: Ahmed <sip:ahmed@cybernaptics.com>
+CSeq: 1 INVITE
+Contact: <sip:bassam@192.168.1.10>
+Content-Length: 0
+

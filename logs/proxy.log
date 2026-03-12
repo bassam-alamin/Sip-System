@@ -1,0 +1,366 @@
+2026-03-12 10:35:31,272 [INFO] __main__: Proxy UDP listening on 0.0.0.0:5060
+2026-03-12 10:35:31,273 [INFO] __main__: Proxy TCP listening on 0.0.0.0:5060
+2026-03-12 10:46:42,533 [INFO] sip_utils: Received request:
+BYE sip:alice@pc33.atlanta.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'Max-Forwards': '70', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 10:46:42,588 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 10:46:43,590 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:04:32,642 [INFO] __main__: Proxy UDP listening on 0.0.0.0:5060
+2026-03-12 11:04:32,643 [INFO] __main__: Proxy TCP listening on 0.0.0.0:5060
+2026-03-12 11:04:49,059 [INFO] sip_utils: Received request:
+BYE sip:alice@pc33.atlanta.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'Max-Forwards': '70', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:04:49,061 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:04:50,062 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:19:44,048 [INFO] __main__: Proxy UDP listening on 0.0.0.0:5060
+2026-03-12 11:19:44,049 [INFO] __main__: Proxy TCP listening on 0.0.0.0:5060
+2026-03-12 11:20:14,218 [INFO] sip_utils: Received request:
+BYE sip:alice@pc33.atlanta.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'Max-Forwards': '70', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:20:14,220 [INFO] sip_utils: Received request:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:20:15,235 [INFO] sip_utils: Received request:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:22:02,120 [INFO] sip_utils: Received request:
+BYE sip:alice@pc33.atlanta.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'Max-Forwards': '70', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:22:02,123 [INFO] sip_utils: Received request:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:22:03,131 [INFO] sip_utils: Received request:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:22:38,817 [INFO] __main__: Proxy UDP listening on 0.0.0.0:5060
+2026-03-12 11:22:38,818 [INFO] __main__: Proxy TCP listening on 0.0.0.0:5060
+2026-03-12 11:22:42,675 [INFO] sip_utils: Received request:
+BYE sip:alice@pc33.atlanta.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'Max-Forwards': '70', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:22:42,677 [INFO] sip_utils: Received request:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:22:43,687 [INFO] sip_utils: Received request:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:25:34,119 [INFO] __main__: Proxy UDP listening on 0.0.0.0:5060
+2026-03-12 11:25:34,120 [INFO] __main__: Proxy TCP listening on 0.0.0.0:5060
+2026-03-12 11:25:45,871 [INFO] sip_utils: Received request:
+BYE sip:alice@pc33.atlanta.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'Max-Forwards': '70', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:25:45,874 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:25:46,879 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:39:04,971 [INFO] __main__: Proxy UDP listening on 0.0.0.0:5060
+2026-03-12 11:39:04,974 [INFO] __main__: Proxy TCP listening on 0.0.0.0:5060
+2026-03-12 11:39:10,435 [INFO] sip_utils: Received request:
+BYE sip:alice@pc33.atlanta.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'Max-Forwards': '70', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:39:10,437 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 11:39:11,440 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 11:39:27,182 [INFO] sip_utils: Received request:
+BYE sip:alice@pc33.atlanta.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'Max-Forwards': '70', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:39:27,184 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 11:39:28,201 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 11:48:43,150 [INFO] __main__: Proxy UDP listening on 0.0.0.0:5060
+2026-03-12 11:48:43,151 [INFO] __main__: Proxy TCP listening on 0.0.0.0:5060
+2026-03-12 11:48:48,741 [INFO] sip_utils: Received request:
+BYE sip:alice@pc33.atlanta.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'Max-Forwards': '70', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:48:48,741 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 60762) via TCP
+2026-03-12 11:48:48,743 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 11:48:49,747 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 11:49:24,753 [INFO] sip_utils: Received request:
+BYE sip:alice@pc33.atlanta.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'Max-Forwards': '70', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:49:24,753 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 64400) via UDP
+2026-03-12 11:49:24,754 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 11:49:25,756 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 11:58:45,741 [INFO] sip_utils: Received request:
+BYE sip:alice@pc33.atlanta.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'Max-Forwards': '70', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:58:45,746 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 51612) via UDP
+2026-03-12 11:58:45,756 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 11:58:46,770 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 12:04:09,258 [INFO] sip_utils: Received request:
+BYE sip:bassam@cybernaptics.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP njeri-pc.cybernaptics.com;branch=z9hG4bKmalform4', 'From': 'Njeri <sip:njeri@cybernaptics.com>;tag=aabbcc', 'To': 'Bassam <sip:bassam@cybernaptics.com>;tag=112233', 'Call-ID': 'njeri-bye-bassam@cybernaptics.com', 'CSeq': '2 BYE', 'Contact': '<sip:njeri@192.168.1.13>', 'Content-Length': '0'}
+2026-03-12 12:04:09,260 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 56914) via UDP
+2026-03-12 12:04:09,271 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP njeri-pc.cybernaptics.com;branch=z9hG4bKmalform4', 'From': 'Njeri <sip:njeri@cybernaptics.com>;tag=aabbcc', 'To': 'Bassam <sip:bassam@cybernaptics.com>;tag=112233', 'Call-ID': 'njeri-bye-bassam@cybernaptics.com', 'CSeq': '2 BYE', 'Contact': '<sip:njeri@192.168.1.13>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 12:04:10,279 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP njeri-pc.cybernaptics.com;branch=z9hG4bKmalform4', 'From': 'Njeri <sip:njeri@cybernaptics.com>;tag=aabbcc', 'To': 'Bassam <sip:bassam@cybernaptics.com>;tag=112233', 'Call-ID': 'njeri-bye-bassam@cybernaptics.com', 'CSeq': '2 BYE', 'Contact': '<sip:njeri@192.168.1.13>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 12:07:10,880 [INFO] sip_utils: Received request:
+INVITE sip:david@cybernaptics.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP ahmed-pc.cybernaptics.com;branch=z9hG4bKbody1', 'From': 'Ahmed <sip:ahmed@cybernaptics.com>;tag=ddeeff', 'To': 'David <sip:david@cybernaptics.com>', 'Call-ID': 'ahmed-invite-david@cybernaptics.com', 'CSeq': '1 INVITE', 'Contact': '<sip:ahmed@192.168.1.14>', 'Content-Type': 'application/sdp', 'Content-Length': '129'}
+2026-03-12 12:07:10,881 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 49674) via UDP
+2026-03-12 12:07:10,885 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP ahmed-pc.cybernaptics.com;branch=z9hG4bKbody1', 'From': 'Ahmed <sip:ahmed@cybernaptics.com>;tag=ddeeff', 'To': 'David <sip:david@cybernaptics.com>', 'Call-ID': 'ahmed-invite-david@cybernaptics.com', 'CSeq': '1 INVITE', 'Contact': '<sip:ahmed@192.168.1.14>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 12:07:11,897 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP ahmed-pc.cybernaptics.com;branch=z9hG4bKbody1', 'From': 'Ahmed <sip:ahmed@cybernaptics.com>;tag=ddeeff', 'To': 'David <sip:david@cybernaptics.com>', 'Call-ID': 'ahmed-invite-david@cybernaptics.com', 'CSeq': '1 INVITE', 'Contact': '<sip:ahmed@192.168.1.14>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 12:14:51,459 [INFO] __main__: Proxy UDP listening on 0.0.0.0:5060
+2026-03-12 12:14:51,460 [INFO] __main__: Proxy TCP listening on 0.0.0.0:5060
+2026-03-12 12:15:03,475 [INFO] sip_utils: Received request:
+INVITE sip:david@cybernaptics.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP ahmed-pc.cybernaptics.com;branch=z9hG4bKbody1', 'From': 'Ahmed <sip:ahmed@cybernaptics.com>;tag=ddeeff', 'To': 'David <sip:david@cybernaptics.com>', 'Call-ID': 'ahmed-invite-david@cybernaptics.com', 'CSeq': '1 INVITE', 'Contact': '<sip:ahmed@192.168.1.14>', 'Content-Type': 'application/sdp', 'Content-Length': '129'}
+2026-03-12 12:15:03,475 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 51750) via UDP
+2026-03-12 12:15:03,477 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP ahmed-pc.cybernaptics.com;branch=z9hG4bKbody1', 'From': 'Ahmed <sip:ahmed@cybernaptics.com>;tag=ddeeff', 'To': 'David <sip:david@cybernaptics.com>', 'Call-ID': 'ahmed-invite-david@cybernaptics.com', 'CSeq': '1 INVITE', 'Contact': '<sip:ahmed@192.168.1.14>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 12:15:04,487 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP ahmed-pc.cybernaptics.com;branch=z9hG4bKbody1', 'From': 'Ahmed <sip:ahmed@cybernaptics.com>;tag=ddeeff', 'To': 'David <sip:david@cybernaptics.com>', 'Call-ID': 'ahmed-invite-david@cybernaptics.com', 'CSeq': '1 INVITE', 'Contact': '<sip:ahmed@192.168.1.14>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 12:15:19,240 [INFO] sip_utils: Received request:
+BYE sip:bassam@cybernaptics.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP njeri-pc.cybernaptics.com;branch=z9hG4bKmalform4', 'From': 'Njeri <sip:njeri@cybernaptics.com>;tag=aabbcc', 'To': 'Bassam <sip:bassam@cybernaptics.com>;tag=112233', 'Call-ID': 'njeri-bye-bassam@cybernaptics.com', 'CSeq': '2 BYE', 'Contact': '<sip:njeri@192.168.1.13>', 'Content-Length': '0'}
+2026-03-12 12:15:19,241 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 65432) via UDP
+2026-03-12 12:15:19,243 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP njeri-pc.cybernaptics.com;branch=z9hG4bKmalform4', 'From': 'Njeri <sip:njeri@cybernaptics.com>;tag=aabbcc', 'To': 'Bassam <sip:bassam@cybernaptics.com>;tag=112233', 'Call-ID': 'njeri-bye-bassam@cybernaptics.com', 'CSeq': '2 BYE', 'Contact': '<sip:njeri@192.168.1.13>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 12:15:20,251 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP njeri-pc.cybernaptics.com;branch=z9hG4bKmalform4', 'From': 'Njeri <sip:njeri@cybernaptics.com>;tag=aabbcc', 'To': 'Bassam <sip:bassam@cybernaptics.com>;tag=112233', 'Call-ID': 'njeri-bye-bassam@cybernaptics.com', 'CSeq': '2 BYE', 'Contact': '<sip:njeri@192.168.1.13>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 12:16:02,799 [INFO] sip_utils: Received request:
+INVITE sip:ahmed@cybernaptics.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP bassam-pc.cybernaptics.com;branch=z9hG4bKmalform1', 'From': 'Bassam <sip:bassam@cybernaptics.com>;tag=112233', 'To': 'Ahmed <sip:ahmed@cybernaptics.com>', 'CSeq': '1 INVITE', 'Contact': '<sip:bassam@192.168.1.10>', 'Content-Length': '0'}
+2026-03-12 12:16:02,799 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 53039) via UDP
+2026-03-12 12:16:02,799 [WARNING] sip_message: Validation failed: missing mandatory header 'Call-ID'
+2026-03-12 12:16:02,800 [WARNING] __main__: Proxy UDP: invalid request from ('127.0.0.1', 53039) — sending 400 Bad Request
+2026-03-12 12:16:46,835 [INFO] sip_utils: Received request:
+REGISTER sip:registrar.cybernaptics.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP bashir-pc.cybernaptics.com;branch=z9hG4bKmalform2', 'From': 'Bashir <sip:bashir@cybernaptics.com>;tag=445566', 'To': 'Bashir <sip:bashir@cybernaptics.com>', 'Call-ID': 'bashir-reg-001@cybernaptics.com', 'CSeq': 'NOTANUMBER REGISTER', 'Contact': '<sip:bashir@192.168.1.11>', 'Expires': '3600', 'Content-Length': '0'}
+2026-03-12 12:16:46,836 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 51555) via UDP
+2026-03-12 12:16:46,836 [WARNING] sip_message: Validation failed: malformed CSeq 'NOTANUMBER REGISTER'
+2026-03-12 12:16:46,836 [WARNING] __main__: Proxy UDP: invalid request from ('127.0.0.1', 51555) — sending 400 Bad Request
+2026-03-12 12:17:14,615 [INFO] sip_utils: Received request:
+INVITE sip:njeri@cybernaptics.com SIP/2.0
+Headers: {'From': 'David <sip:david@cybernaptics.com>;tag=778899', 'To': 'Njeri <sip:njeri@cybernaptics.com>', 'Call-ID': 'david-to-njeri-001@cybernaptics.com', 'CSeq': '1 INVITE', 'Contact': '<sip:david@192.168.1.12>', 'Content-Length': '0'}
+2026-03-12 12:17:14,616 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 51897) via UDP
+2026-03-12 12:17:14,616 [WARNING] sip_message: Validation failed: missing mandatory header 'Via'
+2026-03-12 12:17:14,616 [WARNING] __main__: Proxy UDP: invalid request from ('127.0.0.1', 51897) — sending 400 Bad Request
+2026-03-12 13:16:21,671 [INFO] __main__: Proxy UDP listening on 0.0.0.0:5060
+2026-03-12 13:16:21,672 [INFO] __main__: Proxy TCP listening on 0.0.0.0:5060
+2026-03-12 13:16:37,780 [INFO] sip_utils: Received request:
+INVITE sip:njeri@cybernaptics.com SIP/2.0
+Headers: {'From': 'David <sip:david@cybernaptics.com>;tag=778899', 'To': 'Njeri <sip:njeri@cybernaptics.com>', 'Call-ID': 'david-to-njeri-001@cybernaptics.com', 'CSeq': '1 INVITE', 'Contact': '<sip:david@192.168.1.12>', 'Content-Length': '0'}
+2026-03-12 13:16:37,780 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 63747) via UDP
+2026-03-12 13:16:37,781 [WARNING] sip_message: Validation failed: missing mandatory header 'Via'
+2026-03-12 13:16:37,781 [WARNING] __main__: Proxy UDP: invalid request from ('127.0.0.1', 63747) — sending 400 Bad Request
+2026-03-12 13:16:49,286 [INFO] sip_utils: Received request:
+INVITE sip:david@cybernaptics.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP ahmed-pc.cybernaptics.com;branch=z9hG4bKbody1', 'From': 'Ahmed <sip:ahmed@cybernaptics.com>;tag=ddeeff', 'To': 'David <sip:david@cybernaptics.com>', 'Call-ID': 'ahmed-invite-david@cybernaptics.com', 'CSeq': '1 INVITE', 'Contact': '<sip:ahmed@192.168.1.14>', 'Content-Type': 'application/sdp', 'Content-Length': '129'}
+2026-03-12 13:16:49,287 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 57124) via UDP
+2026-03-12 13:16:49,290 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP ahmed-pc.cybernaptics.com;branch=z9hG4bKbody1', 'From': 'Ahmed <sip:ahmed@cybernaptics.com>;tag=ddeeff', 'To': 'David <sip:david@cybernaptics.com>', 'Call-ID': 'ahmed-invite-david@cybernaptics.com', 'CSeq': '1 INVITE', 'Contact': '<sip:ahmed@192.168.1.14>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:16:50,303 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP ahmed-pc.cybernaptics.com;branch=z9hG4bKbody1', 'From': 'Ahmed <sip:ahmed@cybernaptics.com>;tag=ddeeff', 'To': 'David <sip:david@cybernaptics.com>', 'Call-ID': 'ahmed-invite-david@cybernaptics.com', 'CSeq': '1 INVITE', 'Contact': '<sip:ahmed@192.168.1.14>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:17:43,286 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '70', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:17:43,286 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 52670) via UDP
+2026-03-12 13:17:43,291 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:17:44,292 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:28:46,948 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '70', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:28:46,951 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 63732) via UDP
+2026-03-12 13:28:46,969 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:28:47,985 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:28:49,951 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '69', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:28:49,951 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 63734) via UDP
+2026-03-12 13:28:49,953 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:28:50,959 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:28:52,962 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '68', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:28:52,962 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 63736) via UDP
+2026-03-12 13:28:52,971 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:28:53,985 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:28:55,966 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '67', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:28:55,966 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 63738) via UDP
+2026-03-12 13:28:55,967 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:28:56,973 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:28:58,968 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '66', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:28:58,968 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 58027) via UDP
+2026-03-12 13:28:58,969 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:28:59,974 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:29:01,978 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '65', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:29:01,978 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 58029) via UDP
+2026-03-12 13:29:01,979 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:29:02,989 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:29:04,993 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '64', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:29:04,993 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 51255) via UDP
+2026-03-12 13:29:04,994 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:29:05,998 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:29:08,010 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '63', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:29:08,010 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 55171) via UDP
+2026-03-12 13:29:08,011 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:29:09,016 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:29:11,012 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '62', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:29:11,012 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 55173) via UDP
+2026-03-12 13:29:11,013 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:29:12,026 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:29:14,024 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '61', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:29:14,025 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 57413) via UDP
+2026-03-12 13:29:14,026 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:29:15,030 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:29:17,031 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '60', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:29:17,031 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 57415) via UDP
+2026-03-12 13:29:17,032 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:29:18,035 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:44:13,722 [INFO] __main__: Proxy UDP listening on 0.0.0.0:5060
+2026-03-12 13:44:13,723 [INFO] __main__: Proxy TCP listening on 0.0.0.0:5060
+2026-03-12 13:44:17,839 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '70', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:44:17,839 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 50324) via UDP
+2026-03-12 13:44:17,840 [ERROR] __main__: Proxy UDP: final server unreachable: [WinError 1234] No service is operating at the destination network endpoint on the remote system
+2026-03-12 13:44:17,841 [WARNING] __main__: Proxy UDP: sent 503 to ('127.0.0.1', 50324) — final server unreachable
+2026-03-12 13:44:46,256 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '70', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:44:46,256 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 58906) via UDP
+2026-03-12 13:44:46,258 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:44:47,264 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:45:21,181 [INFO] __main__: Proxy UDP listening on 0.0.0.0:5060
+2026-03-12 13:45:21,182 [INFO] __main__: Proxy TCP listening on 0.0.0.0:5060
+2026-03-12 13:45:24,770 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '70', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:45:24,770 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 50810) via UDP
+2026-03-12 13:45:24,774 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:45:25,786 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:49:04,438 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '70', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 13:49:04,438 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 49993) via UDP
+2026-03-12 13:49:04,441 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:49:05,444 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 14:03:38,690 [INFO] __main__: Proxy UDP listening on 0.0.0.0:5060
+2026-03-12 14:03:38,691 [INFO] __main__: Proxy TCP listening on 0.0.0.0:5060
+2026-03-12 14:03:41,445 [INFO] sip_utils: Received request:
+INVITE sip:bob@biloxi.com SIP/2.0
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'Max-Forwards': '70', 'To': 'Bob <sip:bob@biloxi.com>', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Type': 'application/sdp', 'Content-Length': '0'}
+2026-03-12 14:03:41,445 [INFO] __main__: Proxy: received request from client ('127.0.0.1', 60987) via UDP
+2026-03-12 14:03:41,447 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 14:03:42,460 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}

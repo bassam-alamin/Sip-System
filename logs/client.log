@@ -1,0 +1,146 @@
+2026-03-12 10:46:42,537 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 10:46:43,591 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:04:49,059 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:04:50,063 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:20:14,219 [INFO] sip_utils: Received request:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:20:15,235 [INFO] sip_utils: Received request:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:22:02,121 [INFO] sip_utils: Received request:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:22:03,131 [INFO] sip_utils: Received request:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:22:42,675 [INFO] sip_utils: Received request:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:22:43,687 [INFO] sip_utils: Received request:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:25:45,872 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:25:46,879 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0'}
+2026-03-12 11:39:10,435 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 11:39:11,441 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 11:39:27,182 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 11:39:28,201 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 11:48:48,741 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 11:48:49,747 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 11:49:24,753 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 11:49:25,756 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 11:58:45,748 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 11:58:46,770 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP 192.0.2.4;branch=z9hG4bKnashds10', 'From': 'Bob <sip:bob@biloxi.com>;tag=a6c85cf', 'To': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '231 BYE', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 12:04:09,261 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP njeri-pc.cybernaptics.com;branch=z9hG4bKmalform4', 'From': 'Njeri <sip:njeri@cybernaptics.com>;tag=aabbcc', 'To': 'Bassam <sip:bassam@cybernaptics.com>;tag=112233', 'Call-ID': 'njeri-bye-bassam@cybernaptics.com', 'CSeq': '2 BYE', 'Contact': '<sip:njeri@192.168.1.13>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 12:04:10,280 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP njeri-pc.cybernaptics.com;branch=z9hG4bKmalform4', 'From': 'Njeri <sip:njeri@cybernaptics.com>;tag=aabbcc', 'To': 'Bassam <sip:bassam@cybernaptics.com>;tag=112233', 'Call-ID': 'njeri-bye-bassam@cybernaptics.com', 'CSeq': '2 BYE', 'Contact': '<sip:njeri@192.168.1.13>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 12:07:10,881 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP ahmed-pc.cybernaptics.com;branch=z9hG4bKbody1', 'From': 'Ahmed <sip:ahmed@cybernaptics.com>;tag=ddeeff', 'To': 'David <sip:david@cybernaptics.com>', 'Call-ID': 'ahmed-invite-david@cybernaptics.com', 'CSeq': '1 INVITE', 'Contact': '<sip:ahmed@192.168.1.14>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 12:07:11,898 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP ahmed-pc.cybernaptics.com;branch=z9hG4bKbody1', 'From': 'Ahmed <sip:ahmed@cybernaptics.com>;tag=ddeeff', 'To': 'David <sip:david@cybernaptics.com>', 'Call-ID': 'ahmed-invite-david@cybernaptics.com', 'CSeq': '1 INVITE', 'Contact': '<sip:ahmed@192.168.1.14>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 12:15:03,476 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP ahmed-pc.cybernaptics.com;branch=z9hG4bKbody1', 'From': 'Ahmed <sip:ahmed@cybernaptics.com>;tag=ddeeff', 'To': 'David <sip:david@cybernaptics.com>', 'Call-ID': 'ahmed-invite-david@cybernaptics.com', 'CSeq': '1 INVITE', 'Contact': '<sip:ahmed@192.168.1.14>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 12:15:04,489 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP ahmed-pc.cybernaptics.com;branch=z9hG4bKbody1', 'From': 'Ahmed <sip:ahmed@cybernaptics.com>;tag=ddeeff', 'To': 'David <sip:david@cybernaptics.com>', 'Call-ID': 'ahmed-invite-david@cybernaptics.com', 'CSeq': '1 INVITE', 'Contact': '<sip:ahmed@192.168.1.14>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 12:15:19,242 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP njeri-pc.cybernaptics.com;branch=z9hG4bKmalform4', 'From': 'Njeri <sip:njeri@cybernaptics.com>;tag=aabbcc', 'To': 'Bassam <sip:bassam@cybernaptics.com>;tag=112233', 'Call-ID': 'njeri-bye-bassam@cybernaptics.com', 'CSeq': '2 BYE', 'Contact': '<sip:njeri@192.168.1.13>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 12:15:20,252 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP njeri-pc.cybernaptics.com;branch=z9hG4bKmalform4', 'From': 'Njeri <sip:njeri@cybernaptics.com>;tag=aabbcc', 'To': 'Bassam <sip:bassam@cybernaptics.com>;tag=112233', 'Call-ID': 'njeri-bye-bassam@cybernaptics.com', 'CSeq': '2 BYE', 'Contact': '<sip:njeri@192.168.1.13>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 12:16:02,801 [INFO] sip_utils: Received response:
+SIP/2.0 400 Bad Request
+Headers: {'Via': 'SIP/2.0/UDP bassam-pc.cybernaptics.com;branch=z9hG4bKmalform1', 'From': 'Bassam <sip:bassam@cybernaptics.com>;tag=112233', 'To': 'Ahmed <sip:ahmed@cybernaptics.com>', 'CSeq': '1 INVITE', 'Contact': '<sip:bassam@192.168.1.10>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 12:16:25,351 [ERROR] root: Request file not found: sip-requests\malformed_bad_cesq.txt
+2026-03-12 12:16:46,836 [INFO] sip_utils: Received response:
+SIP/2.0 400 Bad Request
+Headers: {'Via': 'SIP/2.0/UDP bashir-pc.cybernaptics.com;branch=z9hG4bKmalform2', 'From': 'Bashir <sip:bashir@cybernaptics.com>;tag=445566', 'To': 'Bashir <sip:bashir@cybernaptics.com>', 'Call-ID': 'bashir-reg-001@cybernaptics.com', 'CSeq': 'NOTANUMBER REGISTER', 'Contact': '<sip:bashir@192.168.1.11>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 12:17:14,616 [INFO] sip_utils: Received response:
+SIP/2.0 400 Bad Request
+Headers: {'From': 'David <sip:david@cybernaptics.com>;tag=778899', 'To': 'Njeri <sip:njeri@cybernaptics.com>', 'Call-ID': 'david-to-njeri-001@cybernaptics.com', 'CSeq': '1 INVITE', 'Contact': '<sip:david@192.168.1.12>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:16:37,782 [INFO] sip_utils: Received response:
+SIP/2.0 400 Bad Request
+Headers: {'From': 'David <sip:david@cybernaptics.com>;tag=778899', 'To': 'Njeri <sip:njeri@cybernaptics.com>', 'Call-ID': 'david-to-njeri-001@cybernaptics.com', 'CSeq': '1 INVITE', 'Contact': '<sip:david@192.168.1.12>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:16:49,288 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP ahmed-pc.cybernaptics.com;branch=z9hG4bKbody1', 'From': 'Ahmed <sip:ahmed@cybernaptics.com>;tag=ddeeff', 'To': 'David <sip:david@cybernaptics.com>', 'Call-ID': 'ahmed-invite-david@cybernaptics.com', 'CSeq': '1 INVITE', 'Contact': '<sip:ahmed@192.168.1.14>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:16:50,304 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP ahmed-pc.cybernaptics.com;branch=z9hG4bKbody1', 'From': 'Ahmed <sip:ahmed@cybernaptics.com>;tag=ddeeff', 'To': 'David <sip:david@cybernaptics.com>', 'Call-ID': 'ahmed-invite-david@cybernaptics.com', 'CSeq': '1 INVITE', 'Contact': '<sip:ahmed@192.168.1.14>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:17:43,288 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:17:44,293 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:44:17,839 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:44:17,841 [INFO] sip_utils: Received response:
+SIP/2.0 503 Service Unavailable
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:44:46,257 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:44:47,265 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:45:01,440 [ERROR] client: Client UDP: proxy unreachable at 127.0.0.1:5060 — [WinError 1234] No service is operating at the destination network endpoint on the remote system
+2026-03-12 13:45:24,771 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:45:25,787 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:49:04,439 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 13:49:05,445 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 14:03:41,446 [INFO] sip_utils: Received response:
+SIP/2.0 100 Trying
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
+2026-03-12 14:03:42,461 [INFO] sip_utils: Received response:
+SIP/2.0 200 OK
+Headers: {'Via': 'SIP/2.0/UDP pc33.atlanta.com;branch=z9hG4bK776asdhds', 'From': 'Alice <sip:alice@atlanta.com>;tag=1928301774', 'To': 'Bob <sip:bob@biloxi.com>', 'Call-ID': 'a84b4c76e66710@pc33.atlanta.com', 'CSeq': '314159 INVITE', 'Contact': '<sip:alice@pc33.atlanta.com>', 'Content-Length': '0', 'Expires': '7200'}
